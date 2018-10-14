@@ -1,2 +1,2 @@
 # Akad_About_Us
-https://sa-fardin.github.io/image_grid/
+https://sa-masih.github.io/akad_about_us/
